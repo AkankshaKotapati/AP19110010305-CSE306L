@@ -1,6 +1,0 @@
-Symbol Table: 
-void
-main
-int
-n
-if
